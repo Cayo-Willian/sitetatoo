@@ -1,2 +1,2 @@
 # sitetatoo
-site de tatuagen testes
+funcional somento no chrome 
